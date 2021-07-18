@@ -1,0 +1,23 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+
+
+input {
+  width: 90%;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 85%;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 20px;
+  border-width: 3px;
+}
