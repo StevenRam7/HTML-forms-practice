@@ -1,3 +1,3 @@
 # HTML forms
 
-Take a few moments to read through the HTML and CSS and make sure that you understand how it all works. Use VSCode Live Server to launch a local development server to serve the `index.html` file.
+Forms for name, email address, and a message. See here: https://stevenram7.github.io/HTML-forms-practice/
